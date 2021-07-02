@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ChangJoey56.github.io</id>
+    <id>https://changjoey56.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-02T13:27:50.160Z</updated>
+    <updated>2021-07-02T13:34:01.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ChangJoey56.github.io"/>
-    <link rel="self" href="https://ChangJoey56.github.io/atom.xml"/>
+    <link rel="alternate" href="https://changjoey56.github.io"/>
+    <link rel="self" href="https://changjoey56.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://ChangJoey56.github.io/images/avatar.png</logo>
-    <icon>https://ChangJoey56.github.io/favicon.ico</icon>
+    <logo>https://changjoey56.github.io/images/avatar.png</logo>
+    <icon>https://changjoey56.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[客家话与韩语语音变化规律]]></title>
-        <id>https://ChangJoey56.github.io/post/ke-jia-hua-yu-han-yu-yu-yin-bian-hua-gui-lu/</id>
-        <link href="https://ChangJoey56.github.io/post/ke-jia-hua-yu-han-yu-yu-yin-bian-hua-gui-lu/">
+        <id>https://changjoey56.github.io/post/ke-jia-hua-yu-han-yu-yu-yin-bian-hua-gui-lu/</id>
+        <link href="https://changjoey56.github.io/post/ke-jia-hua-yu-han-yu-yu-yin-bian-hua-gui-lu/">
         </link>
         <updated>2021-06-27T15:25:30.000Z</updated>
         <content type="html"><![CDATA[<p>ai -&gt; e<br>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://ChangJoey56.github.io/post/hello-gridea/</id>
-        <link href="https://ChangJoey56.github.io/post/hello-gridea/">
+        <id>https://changjoey56.github.io/post/hello-gridea/</id>
+        <link href="https://changjoey56.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
