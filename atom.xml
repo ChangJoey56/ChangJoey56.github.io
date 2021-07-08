@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changjoey56.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-08T03:57:49.855Z</updated>
+    <updated>2021-07-08T14:31:12.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changjoey56.github.io"/>
     <link rel="self" href="https://changjoey56.github.io/atom.xml"/>
@@ -11,17 +11,59 @@
     <icon>https://changjoey56.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[像韩国小朋友一样学韩语---慢慢吃]]></title>
+        <id>https://changjoey56.github.io/post/xiang-han-guo-xiao-peng-you-yi-yang-xue-han-yu-man-man-chi/</id>
+        <link href="https://changjoey56.github.io/post/xiang-han-guo-xiao-peng-you-yi-yang-xue-han-yu-man-man-chi/">
+        </link>
+        <updated>2021-07-08T15:29:39.000Z</updated>
+        <content type="html"><![CDATA[<p>https://www.bilibili.com/video/BV1yK4y1G7f6</p>
+<p>孙子：할머니,뭐하세요?<br>
+奶奶，您在做什么？</p>
+<p>奶奶：우리 손주 먹을 맘마 만들고 있지요.<br>
+正在做我们孙子要吃的饭。（우리 손주 我们孙子；맘마 儿语“饭”；만들다 制作  ）</p>
+<p>孙子：할머니가 만들어주는 맘마는 색깔도 예쁘고 너무 맛있어요.<br>
+奶奶做的饭颜色漂亮又非常好吃。（색깔 色格，色调；예쁘다 漂亮 ）</p>
+<p>奶奶：자~배고프지? 다 됐다.여기 있어.(배고프다 肚子饿)<br>
+来，肚子饿了吧？都好了。在这里。</p>
+<p>奶奶：아직 뜨거우니까<br>
+因为还很烫（뜨겁다 烫，发烫）</p>
+<p>奶奶：후후 불어서 천천히 먹어.（불다 吹）<br>
+呼呼地吹，慢慢地吃</p>
+<p>孙子：네,후후~ 너무맛있어.<br>
+好，呼呼~ 好好吃。</p>
+<p>奶奶：더 먹을래요.<br>
+还要吃。</p>
+<p>奶奶：아이고 벌써 세 그릇이나 먹었는데<br>
+（벌써 已经；그릇 碗 ）<br>
+哎呀，已经吃了三碗了</p>
+<p>奶奶：더 먹을 수 있겠어?<br>
+还能吃得下吗？</p>
+<p>奶奶：이거 다 네 거야. 천천히 먹어,아가~<br>
+这些都是你的。慢慢地吃，宝贝。</p>
+<p>奶奶：배가 아야 할지도 몰라.<br>
+肚子会痛也说不定 (아야 痛呀；할지도 몰라 说不定)</p>
+<p>孙子：할머니가 해주는 맘마 평생 먹고 싶어요.<br>
+奶奶做得饭我一生都想吃</p>
+<p>孙子：계속해 줄 거죠?<br>
+会一直做给我吃吗？</p>
+<p>奶奶：약속은 할 수 없지만 걱정하지마.<br>
+虽然没办法约定，但别担心。</p>
+<p>奶奶：맘마를 맛있게 만드는 방법을 알려줄게.<br>
+(방법 方法；맛있게 만드 好吃地做；알리다 告知)</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[客家话与韩语语音变化规律]]></title>
         <id>https://changjoey56.github.io/post/ke-jia-hua-yu-han-yu-yu-yin-bian-hua-gui-lu/</id>
         <link href="https://changjoey56.github.io/post/ke-jia-hua-yu-han-yu-yu-yin-bian-hua-gui-lu/">
         </link>
-        <updated>2021-06-27T15:25:30.000Z</updated>
+        <updated>2021-07-08T15:28:09.000Z</updated>
         <content type="html"><![CDATA[<p>ai -&gt; e<br>
 太（tai）-&gt; 태 (te)</p>
 <p>eng -&gt; ong</p>
 <p>t -&gt; j<br>
 地（ti）-&gt; 지（ji）</p>
-<p>ui  -&gt; i<br>
+<p>ui -&gt; i<br>
 飞（fui）-&gt; 비（bi）</p>
 ]]></content>
     </entry>
