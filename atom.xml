@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changjoey56.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-09T14:07:00.372Z</updated>
+    <updated>2021-07-09T14:28:01.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changjoey56.github.io"/>
     <link rel="self" href="https://changjoey56.github.io/atom.xml"/>
@@ -15,21 +15,28 @@
         <id>https://changjoey56.github.io/post/han-yu-yu-fa-xiao-jie/</id>
         <link href="https://changjoey56.github.io/post/han-yu-yu-fa-xiao-jie/">
         </link>
-        <updated>2021-07-09T14:50:04.000Z</updated>
-        <content type="html"><![CDATA[<p>动词名词化：<br>
-動詞기 + 形容詞/動詞<br>
-例子：일하기 힘들어요. (工作很辛苦)</p>
+        <updated>2021-07-09T15:50:04.000Z</updated>
+        <content type="html"><![CDATA[<p>连接词：<br>
+(으)ㄴ/는데是连接词尾。用于谓词词干后,对某种行为或发生某种事物的背景和条件进行说明。<br>
+例子：날씨가 <strong>추운데</strong> 집에서 공부합시다. 天气冷,在家学习吧。</p>
+<p>动词名词化：<br>
+动词기 + 形容词/动词<br>
+例子：<strong>일하기</strong> 힘들어요.  工作很辛苦</p>
+<p>动词+ 는 것<br>
+<strong>여행하는 것</strong>은 좋아해요. 喜欢旅行</p>
 <p>否定词：<br>
 안 &amp; -지 않다 主体本身没有打算进行某一个动作。<br>
 例子：텔레비전 안 봐요. 不看电视<br>
-진수는 신문을 보지 않아요.真淑不看报纸。</p>
+진수는 신문을 <strong>보지 않아요</strong>.真淑不看报纸。</p>
 <p>못&amp; -지 못하다 表示动作主体因为能力或者外部原因导致不能做某事。<br>
-다리를 다쳐서 못 걸어요. 腿受伤了不能走。</p>
+다리를 다쳐서 <strong>못 걸어요</strong>. 腿受伤了不能走。</p>
 <p>修饰语：<br>
 动词 + (을)ㄹ+ 名词 要干XX的<br>
-例子：다음 주에는 할 일이 너무 많아요. 下周要做的事情很多。</p>
-<p>动词 + (으)ㄴ 过去做了的</p>
-<p>动词 + 는 正在、进行</p>
+例子：다음 주에는 <strong>할 일이</strong> 너무 많아요. 下周要做的事情很多。</p>
+<p>动词 + (으)ㄴ 过去做了的<br>
+例子：어제 <strong>산 옷</strong>을 입었어요. 穿了昨天买的衣服。</p>
+<p>动词 + 는 现在、进行<br>
+아이가 <strong>좋아하는</strong> 과자를 사 주십시오.  孩子喜欢饼干。给他买饼干吧。</p>
 <figure data-type="image" tabindex="1"><img src="https://changjoey56.github.io/post-images/1625839353390.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
