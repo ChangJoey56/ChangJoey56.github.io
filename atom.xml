@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changjoey56.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-13T00:29:29.077Z</updated>
+    <updated>2021-07-17T03:38:15.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changjoey56.github.io"/>
     <link rel="self" href="https://changjoey56.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://changjoey56.github.io/images/avatar.png</logo>
     <icon>https://changjoey56.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[过得好吗？]]></title>
+        <id>https://changjoey56.github.io/post/guo-de-hao-ma/</id>
+        <link href="https://changjoey56.github.io/post/guo-de-hao-ma/">
+        </link>
+        <updated>2021-07-17T04:37:14.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1A64y1o7Ut">잘 지냈어?</a></p>
+<p>따르릉~ 따르릉~<br>
+전화벨 소리가 울렸어요.<br>
+电话铃声响了。（소리 声音，울리다 发成声音/震动）</p>
+<p>여보세요? 누구세요?<br>
+喂？你是谁？</p>
+<p>안녕, 나야 고슴도치<br>
+你好 是我 刺猬</p>
+<p>너구리야, 이번 주 일요일에 시간 되니? 우리 만나자.<br>
+浣熊啊，这周日有时间吗？ 我们见面吧。</p>
+<p>응 시간 돼! 만나자.<br>
+嗯 有时间！我们见面吧</p>
+<p>3일이 지났어요.<br>
+오늘은 일요일 고슴도치를 만나는 날이에요.<br>
+过了三天。<br>
+今天是星期天见刺猬的日子。</p>
+<p>안녕, 잘 지냈어? 어떻게 지냈어?<br>
+你好，过得好吗？ 过得怎么样？</p>
+<p>잘 지냈어. 고마워.<br>
+过得很好，谢谢。</p>
+<p>나 얼마 전에 대학교 졸업했어.<br>
+我不久前大学毕业了。(얼마 多少/不久、不长)</p>
+<p>축하해 고슴도치야.<br>
+恭喜你，刺猬。</p>
+<p>넌 어때?<br>
+你呢？</p>
+<p>요즘, 난 유치원 선생님으로 일해.<br>
+最近，我当幼儿园老师。</p>
+<p>잘 됐다. 太好了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真的吗？]]></title>
         <id>https://changjoey56.github.io/post/zhen-de-ma/</id>
@@ -323,43 +360,6 @@
 저를 도와주셔서.<br>
 모두 다 너무 감사합니다.<br>
 非常感谢大家能来帮助我</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我住在附近]]></title>
-        <id>https://changjoey56.github.io/post/wo-zhu-zai-fu-jin/</id>
-        <link href="https://changjoey56.github.io/post/wo-zhu-zai-fu-jin/">
-        </link>
-        <updated>2021-07-08T15:50:25.000Z</updated>
-        <content type="html"><![CDATA[<p>[난 근처에 실아]</p>
-<p>女主：학교를 아치고 집에 가려고 버스를 기다리고 있었어요.<br>
-放学后，我正等着巴士公交车回家。</p>
-<p>搭讪男：“안녕? 너 어디 가니?”<br>
-女主：하여 한 친구가 말을 걸어왔어요.<br>
-&quot;你好，你去哪儿？&quot;一位朋友搭话过来了。(걸다 搭/架)</p>
-<p>女主：“나는 칩에 가려고 해, 넌?”<br>
-搭讪男：“나도”<br>
-“我要回家了，你呢？” “我也是”</p>
-<p>女主：오랫동안 대화를 나누었어요.<br>
-我们聊了很久 (오랫동안 很久/许久；대화 对话；나누다 分开/分享)</p>
-<p>女主：그리고 같은 버스 정류장에서 내렸어요.<br>
-然后在同一个公交车站下车。</p>
-<p>女主：“와~ 너도 여기서 내려?”<br>
-哇~ 你也在这里下车?</p>
-<p>搭讪男：“응, 이 근처에 살아.”<br>
-嗯，住在这附近。</p>
-<p>女主：“나중에 우리 집에 놀러 와, 같이 맛있는 거 먹자.”<br>
-以后来我家玩吧，一起吃好吃的吧。(나중 以后/回头；놀다 玩耍)</p>
-<p>搭讪男：“좋아! 너는 어디에 사니?”<br>
-好！你住在哪儿</p>
-<p>女主：“응? 뭐라고 했어?”<br>
-嗯？你说什么了？</p>
-<p>搭讪男：“어디에 사녀고!”<br>
-你住在哪儿啊?！</p>
-<p>女主：“오렌지 아파트 B동 12호야.”<br>
-橙色公寓 B栋 12号</p>
-<p>搭讪男：“응, 놀러 갈게. 또 만나.”<br>
-嗯，我会去玩。再见。</p>
 ]]></content>
     </entry>
 </feed>
