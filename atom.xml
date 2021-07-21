@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changjoey56.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-19T10:48:59.308Z</updated>
+    <updated>2021-07-21T16:13:43.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changjoey56.github.io"/>
     <link rel="self" href="https://changjoey56.github.io/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://changjoey56.github.io/images/avatar.png</logo>
     <icon>https://changjoey56.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[ 去吃饭吧]]></title>
+        <id>https://changjoey56.github.io/post/qu-chi-fan-ba/</id>
+        <link href="https://changjoey56.github.io/post/qu-chi-fan-ba/">
+        </link>
+        <updated>2021-07-21T17:10:27.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1X44y1z7Rj?t=6">밥 먹으러 가자</a></p>
+<p>旁白：헤운이는 헤민이의 숙제를 도와주고 있어요.<br>
+惠恩在帮惠仁做作业。（숙제 宿题，作业）</p>
+<p>弟：누나, 나 배고파.<br>
+姐姐，我饿了。</p>
+<p>旁白：헤은이는 이제서야 점심시간이라는 것을 깨달았어요.<br>
+惠恩现在才意识到是午饭时间。（깨닫다 认识到，意识到）</p>
+<p>姐：밥 먹으러 가자.<br>
+去吃饭吧。</p>
+<p>旁白：헤은이는 동생을 데리고 점심을 먹으러 나갔어요.<br>
+惠恩带着弟弟出去吃午饭了。（데리다 带，领；나가다 出去）</p>
+<p>旁白：헤은이와 헤민이는 길을 걸으면서 뭘 먹을지 고민했어요.<br>
+惠恩和惠仁边走边苦恼要吃什么。<br>
+（길 路；고민하다 苦闷，烦恼；면서(으면서) AB两事同时进行）</p>
+<p>旁白：한 식당 앞에서 멈추고 말했어요.<br>
+在一个餐厅门前停下来说。（멈추다 停止）</p>
+<p>姐：와~ 진짜 싸다.<br>
+哇~ 真的好便宜</p>
+<p>旁白：김밥과 비빔밥을 주문했어요.<br>
+点了紫菜包饭和拌饭。</p>
+<p>弟：정말 맛있어 보였어요.<br>
+看起来真的很好吃。（보이다 让...看，呈现）</p>
+<p>两人：잘 먹겠습니다. 헤은이와 헤민이는 말했어요.<br>
+开动了。惠恩和惠仁说。</p>
+<p>弟：누나 정말 맛있어.<br>
+姐姐，真的很好吃。</p>
+<p>姐：응, 맛있게 먹어 내 동생.<br>
+嗯，多吃点吧，我弟弟。</p>
+<p>旁白：밥을 먹고 난 후, 둘은 집에 걸어갔어요.<br>
+吃完饭，两个人走回家去了。（걸어가다 走）</p>
+<p>弟：배불러 누나.<br>
+好饱啊 姐姐（배부르다 吃饱）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真的喜欢你]]></title>
         <id>https://changjoey56.github.io/post/zhen-de-xi-huan-ni/</id>
@@ -319,23 +359,6 @@
 贤太把玩具擦干净，修好了再卖了。(깨끗이 干净地；닦다 擦刷；고치다 修补)</p>
 <p>돈을 벌어 좋아하는 과자를 많이 먹었답니다.<br>
 赚了钱，吃了很多喜欢的饼干。(벌다 挣赚抓)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[客家话与韩语语音变化规律]]></title>
-        <id>https://changjoey56.github.io/post/ke-jia-hua-yu-han-yu-yu-yin-bian-hua-gui-lu/</id>
-        <link href="https://changjoey56.github.io/post/ke-jia-hua-yu-han-yu-yu-yin-bian-hua-gui-lu/">
-        </link>
-        <updated>2021-07-08T16:28:09.000Z</updated>
-        <content type="html"><![CDATA[<p>ai -&gt; e<br>
-太（tai4）-&gt; 태 (te)</p>
-<p>eng -&gt; ong</p>
-<p>t -&gt; j<br>
-地（ti4）-&gt; 지（ji）</p>
-<p>ui -&gt; i<br>
-飞（fui1）-&gt; 비（bi）</p>
-<p>f -&gt; b/p<br>
-方法 (fong1 fap5) -&gt; 방법 (pang bob)</p>
 ]]></content>
     </entry>
 </feed>
