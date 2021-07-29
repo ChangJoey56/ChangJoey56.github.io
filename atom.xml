@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changjoey56.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-21T16:13:43.747Z</updated>
+    <updated>2021-07-29T15:55:10.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changjoey56.github.io"/>
     <link rel="self" href="https://changjoey56.github.io/atom.xml"/>
@@ -10,6 +10,83 @@
     <logo>https://changjoey56.github.io/images/avatar.png</logo>
     <icon>https://changjoey56.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[实用韩语-租房场景]]></title>
+        <id>https://changjoey56.github.io/post/shi-yong-han-yu-zu-fang-chang-jing/</id>
+        <link href="https://changjoey56.github.io/post/shi-yong-han-yu-zu-fang-chang-jing/">
+        </link>
+        <updated>2021-07-29T15:30:34.000Z</updated>
+        <content type="html"><![CDATA[<p>一、事前沟通<br>
+월세집 을 구하러 왔어요.<br>
+我来租房子。（구하다 求）</p>
+<p>어떤 방을 찾으세요.<br>
+想找什么样的房子呢？</p>
+<p>원룸을 구하고 싶어요.<br>
+我想要单人间。</p>
+<p>독립된 주방/가구 있는 방을 구하고 싶어요.<br>
+我想找有 独立厨房/家具 的房子。</p>
+<p>월세를 찾으세요? 아니면 전셔를 찾으세요?<br>
+你想找月租的吗？还是想找全税的？</p>
+<p>월세는 얼마에요?<br>
+月租多少钱？</p>
+<p>보증금은 얼마에요?<br>
+保证金多少呢？</p>
+<p>가스,수도,전기,인터넷 비가 어떻게 해요?<br>
+那水电气网费怎么算呢？</p>
+<p>가스,수도,전기,인터넷 비용은 월세에 포함되어 있어요?<br>
+水电气网费 包含在月租里面了吗？</p>
+<p>중개수수료는 얼마예요?<br>
+中介手续费多少</p>
+<p>여기 관리비 있어요?<br>
+这里有管理费吗？</p>
+<p>걱정 마세요, 다 하숙비에 들어가요, 그냥 살면 돼요.<br>
+不用担心，都包含在房租里了，你只要住着就可以啦。<br>
+（하숙비 下宿费，房租；들어가다 加入，进入）</p>
+<p>생각보다 더 비싸네요.<br>
+比想象的要贵呢。（비싸 贵）</p>
+<p>좀 싸게 주시겠어요?<br>
+请问可以便宜一点儿吗？（싸게 便宜）</p>
+<p>방세가 좀 비싼데 자세히 생각해야 돼요.<br>
+房价有点儿贵，我得好好想想。（자세히 仔细，详细）</p>
+<p>二、事中看房<br>
+그 방은 어디에 있어요?<br>
+请问房子在哪里呢？</p>
+<p>방 좀 볼수 있을까요? （방 볼수 있어요?）<br>
+能看一下房间吗？</p>
+<p>몇 층입니까?<br>
+几楼？</p>
+<p>여기 햇빛이 많이 들어 와요?<br>
+这里阳光多进来吗？（햇빛 阳光，들어 오다 进来）</p>
+<p>방이 참 꺠끗하고 밝아서 보기 좋네요<br>
+房间干净，看上去不错</p>
+<p>방이 작기는 한데 너무 깨끗해요.<br>
+房间虽然小可是很干净。</p>
+<p>욕실이 좁아서 아주 불편해요.<br>
+浴室太小了，不方便。</p>
+<p>하장실이 좀 작아요. (작다 小)<br>
+洗手间有点小</p>
+<p>三、事后签约<br>
+계약은 어떻게 해야 돼요?<br>
+合约怎么签？</p>
+<p>1년 계약해도 돼요?<br>
+可以签一年合同吗？</p>
+<p>언제 이사하면 될까요?<br>
+我什么时候可以搬进来呢？（이사 移徙 yi sai，移居、搬家）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩语与古汉语]]></title>
+        <id>https://changjoey56.github.io/post/han-yu-yu-gu-han-yu/</id>
+        <link href="https://changjoey56.github.io/post/han-yu-yu-gu-han-yu/">
+        </link>
+        <updated>2021-07-29T14:51:29.000Z</updated>
+        <content type="html"><![CDATA[<p>급기야 通“及其也”：最终</p>
+<p>도대체 通“都大体”：讲重点，要点</p>
+<p>어차피 通“於此彼”：反正</p>
+<p>역시 通“亦是”：果然</p>
+<p>심지어 通“甚至于”：甚至</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ 去吃饭吧]]></title>
         <id>https://changjoey56.github.io/post/qu-chi-fan-ba/</id>
@@ -148,7 +225,7 @@
         <id>https://changjoey56.github.io/post/han-yu-yu-fa-xiao-jie/</id>
         <link href="https://changjoey56.github.io/post/han-yu-yu-fa-xiao-jie/">
         </link>
-        <updated>2021-07-09T17:50:04.000Z</updated>
+        <updated>2021-07-09T19:50:04.000Z</updated>
         <content type="html"><![CDATA[<p>v+단다, ㄴ단다(는단다), 란다  表示以强调的语气肯定某一事实。如：<br>
 例子：공원의꽃을꺾어서는안<strong>된단다</strong>. 不能折公园里的花。</p>
 <p>动词+아/어/해야 必须<br>
@@ -156,21 +233,34 @@
 那东西必须去大市场才买得到。</p>
 <p>动词+어/아/야겠다 表示有计划的未来动作，即得去做某事<br>
 例子：뚱뚱해져서 운동을 해햐겠어요. 变胖了所以得运动</p>
-<p>连接词：<br>
-(으)ㄴ/는데是连接词尾。用于谓词词干后,对某种行为或发生某种事物的背景和条件进行说明。<br>
+<p><strong>连接词：</strong></p>
+<p>'-고서야 ' VS '-고야'<br>
+A动作结束才开始B动作，但前面事实不能作为后面事实的条件。<br>
+例子：<br>
+이런 속도로 걸어 가지<strong>고야</strong> 오늘 안에 가겠어?<br>
+以这种速度走，今天能走到吗？</p>
+<p>(으)ㄴ/는데是连接词尾。用于谓词词干后,对某种行为或发生某种事物的背景和条件进行说明。<br>
 例子：날씨가 <strong>추운데</strong> 집에서 공부합시다. 天气冷,在家学习吧。</p>
-<p>动词名词化：<br>
+<p>~(이)라는 间接引述，“叫什么，称为”<br>
+例子：우리 사무실 옆에 한국관이<strong>라는</strong> 식당이 있는데 거기서 먹읍니다.<br>
+我们办公室旁边有一个叫做韩国馆的饭店我们去那吃吧</p>
+<p><strong>动词或形容词名词化：</strong><br>
 动词기 + 形容词/动词<br>
 例子：<strong>일하기</strong> 힘들어요.  工作很辛苦</p>
+<p>v+ㅁ则偏向于表示动作的结果，比如：<br>
+例子：그리다 - 画，그림 - 画（그리다 这个动作的结果）；<br>
+꾸다 - 做梦，꿈 - 梦（꾸다 这个动作的结果）；</p>
+<p>v+이，有时表示程度，比如：<br>
+높다 - 高，높이 - 高度</p>
 <p>动词+ 는 것<br>
 <strong>여행하는 것</strong>은 좋아해요. 喜欢旅行</p>
-<p>否定词：<br>
+<p><strong>否定词：</strong><br>
 안 &amp; -지 않다 主体本身没有打算进行某一个动作。<br>
 例子：텔레비전 안 봐요. 不看电视<br>
 진수는 신문을 <strong>보지 않아요</strong>.真淑不看报纸。</p>
 <p>못&amp; -지 못하다 表示动作主体因为能力或者外部原因导致不能做某事。<br>
 다리를 다쳐서 <strong>못 걸어요</strong>. 腿受伤了不能走。</p>
-<p>修饰语：<br>
+<p><strong>修饰语：</strong><br>
 动词 + (을)ㄹ+ 名词 要干XX的<br>
 例子：다음 주에는 <strong>할 일이</strong> 너무 많아요. 下周要做的事情很多。</p>
 <p>动词 + (으)ㄴ 过去做了的<br>
@@ -288,77 +378,6 @@
 哎呀... 我忘了带钱和便当</p>
 <p>다시는 늦게 말아야겠어.<br>
 不能再晚了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来韩国学习]]></title>
-        <id>https://changjoey56.github.io/post/lai-han-guo-xue-xi/</id>
-        <link href="https://changjoey56.github.io/post/lai-han-guo-xue-xi/">
-        </link>
-        <updated>2021-07-08T16:47:22.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1RL411p75f">한국에 공부하러 왔어요</a></p>
-<p>전 어제 한국에 왔어요.<br>
-我昨天来到韩国</p>
-<p>전 한국에 공부하러 왔어요.<br>
-我是来韩国学习的</p>
-<p>여기 한국사람들은 친절해요.<br>
-这里的韩国人很亲切</p>
-<p>제가 한국어를 잘하지 못해도 사람들은 이해해줘요.<br>
-即使我的韩语不好，人们也理解我。</p>
-<p>사람들은<br>
-“이름이 뭐예요?&quot;<br>
-“어느 나라에서 왔어요?&quot;<br>
-라고 물었어요.</p>
-<p>人们<br>
-&quot;你叫什么名字？&quot;<br>
-&quot;你来自哪个国家？&quot;<br>
-这样问的。</p>
-<p>(묻다/질문하다 问)</p>
-<p>제 이름은 장조우예요.<br>
-전 학생이에요.<br>
-전 중국에서 왔어요.</p>
-<p>我的名字叫张照宇。<br>
-我是学生。<br>
-我来自中国。</p>
-<p>우리는 놀랐어요.<br>
-我们吓到了。(놀라다 吃惊/惊慌)</p>
-<p>왜냐하면 우리는 모두 같은 대학교 학생이기 때문이에요.<br>
-因为我们都是同一个大学的学生。（왜냐하면 表原因的接续副词）</p>
-<p>그대 이후로, 우리는 좋은 친구가 되었어요.<br>
-从那以后，我们成为了好朋友。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想再吃点饼干的话？]]></title>
-        <id>https://changjoey56.github.io/post/xiang-zai-chi-dian-bing-gan-de-hua/</id>
-        <link href="https://changjoey56.github.io/post/xiang-zai-chi-dian-bing-gan-de-hua/">
-        </link>
-        <updated>2021-07-08T16:41:32.000Z</updated>
-        <content type="html"><![CDATA[<p>[과자를 더 먹으려면?] (https://www.bilibili.com/video/BV1bB4y1K7PZ)</p>
-<p>현태는 과자를 정말 좋아해요.<br>
-贤太真的很喜欢吃饼干。</p>
-<p>어느 날, 과자에 장난감이 들어 있었어요.<br>
-有一天，饼干里有玩具。(장난감 玩具；들다 进入)</p>
-<p>현태는 장난감이 마음에 들지 않아 버리려 했어요.<br>
-贤太不喜欢玩具 所以想扔了。（마음에 들지 않아 进不了内心-&gt;不喜欢；버리다 扔了）</p>
-<p>그때,한 아이가 그 장난감을 500원에 사겠다 했어요.<br>
-那时候，一个孩子说要花500元买那个玩具。（겠다 했 过去将来时）</p>
-<p>현태는 생각했어요.<br>
-贤太觉得很棒。</p>
-<p>다음날,현태는 낡고 고장 난 장난감들을 팔려고 거리에 나왔어요.<br>
-第二天，贤太为了卖掉破旧的玩具来到了街上。（낡다 旧的； 고장 故障）</p>
-<p>하지만 친구들은 장난감을 사지않았어요.<br>
-但是朋友们没有买玩具。</p>
-<p>정신 차려,누가 그런 낡고 고장 난 걸500원에 사?<br>
-打起精神来，谁用500元买那么破旧的？</p>
-<p>현태는 생각했고, 중요한 깨달음을 얻었어요.<br>
-贤太想了之后，得到了重要的领悟。（중요한 重要的； 깨달음 解答悟-&gt;觉悟； 얻다 得到）</p>
-<p>친구들이 좋아하는걸 팔아야겠구나!<br>
-要卖朋友们喜欢的东西啊！</p>
-<p>현태는 장난감들을 깨끗이 닦고 고쳐서 다시 팔았고.<br>
-贤太把玩具擦干净，修好了再卖了。(깨끗이 干净地；닦다 擦刷；고치다 修补)</p>
-<p>돈을 벌어 좋아하는 과자를 많이 먹었답니다.<br>
-赚了钱，吃了很多喜欢的饼干。(벌다 挣赚抓)</p>
 ]]></content>
     </entry>
 </feed>
