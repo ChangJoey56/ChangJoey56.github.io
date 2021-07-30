@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changjoey56.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-29T16:02:05.824Z</updated>
+    <updated>2021-07-30T00:31:06.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changjoey56.github.io"/>
     <link rel="self" href="https://changjoey56.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://changjoey56.github.io/images/avatar.png</logo>
     <icon>https://changjoey56.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[像韩国小朋友一样学韩语---来韩国学习了]]></title>
+        <id>https://changjoey56.github.io/post/xiang-han-guo-xiao-peng-you-yi-yang-xue-han-yu-lai-han-guo-xue-xi-liao/</id>
+        <link href="https://changjoey56.github.io/post/xiang-han-guo-xiao-peng-you-yi-yang-xue-han-yu-lai-han-guo-xue-xi-liao/">
+        </link>
+        <updated>2021-07-30T01:04:11.000Z</updated>
+        <content type="html"><![CDATA[<p>(한국에 공부하러 왔어요)[https://www.bilibili.com/video/BV1RL411p75f]</p>
+<p>전 어제 한국에 왔어요.<br>
+我昨天到韩国了。</p>
+<p>전 한국에 공부하러 왔어요.<br>
+我是来韩国学习。</p>
+<p>여기 한국 사람들은 친절해요.<br>
+这里的韩国人很亲切。</p>
+<p>제가 한국어를 잘아지 못해도 사람들은 이해해 줘요.<br>
+我不太会韩语，人们也可给予理解。</p>
+<p>사람들은<br>
+&quot;이름이  뭐예요?&quot;<br>
+&quot;어느 나라에서 왔어요?&quot;<br>
+라고 물었어요.<br>
+人们会这么问：<br>
+你的名字是什么？<br>
+你从哪国过来？</p>
+<p>&quot;제 이름은 장조우예요.&quot;<br>
+전 학생이에요.<br>
+전 중극에서 왔어요.</p>
+<p>우리는 놀랐어요.<br>
+我们都很惊讶。</p>
+<p>왜냐하면 우리는 같은 대학교 학생이기 때문이에요.<br>
+因为我们都是同一所大学学生。</p>
+<p>그때 이후로,<br>
+우리는 좋은 친구가 되었어요.<br>
+从那以后，我们成为了好朋友。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实用韩语-租房场景]]></title>
         <id>https://changjoey56.github.io/post/shi-yong-han-yu-zu-fang-chang-jing/</id>
@@ -348,36 +382,6 @@ A动作结束才开始B动作，但前面事实不能作为后面事实的条件
 虽然没办法约定，但别担心。</p>
 <p>奶奶：맘마를 맛있게 만드는 방법을 알려줄게.<br>
 (방법 方法；맛있게 만드 好吃地做；알리다 告知)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迟到了]]></title>
-        <id>https://changjoey56.github.io/post/chi-dao-liao/</id>
-        <link href="https://changjoey56.github.io/post/chi-dao-liao/">
-        </link>
-        <updated>2021-07-08T16:52:51.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1R5411p7eT?p=1">늦었어</a></p>
-<p>나는 늦게까지 텔레비전 보는 좋아해.<br>
-我喜欢看电视到很晚。</p>
-<p>근데 엄마는 항상 일찍 자라고 하셔.<br>
-但是妈妈总是让我早点睡。</p>
-<p>나는 왜 일찍 자여 하는지 모르겠어.<br>
-我不知道为什么早点睡。</p>
-<p>자기 전에 핸드폰 게임하고 자야겠어.<br>
-睡觉之前要玩手机游戏</p>
-<p>오늘 또 늦게 일어났어.<br>
-今天又起晚了。</p>
-<p>어떡하지.. 진짜 늦었어.<br>
-怎么办... 真的迟到了</p>
-<p>학교에 뛰어가야 해.<br>
-要跑去学校。</p>
-<p>너무 피곤하고 졸려<br>
-수업에 집중을 못 하겠어.<br>
-太累了，太困了，没法集中精力上课。</p>
-<p>이런.. 돈이랑 도시락 가져오는 걸 잊었어.<br>
-哎呀... 我忘了带钱和便当</p>
-<p>다시는 늦게 말아야겠어.<br>
-不能再晚了。</p>
 ]]></content>
     </entry>
 </feed>
