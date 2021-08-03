@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://changjoey56.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-31T05:07:15.261Z</updated>
+    <updated>2021-08-03T00:05:40.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://changjoey56.github.io"/>
     <link rel="self" href="https://changjoey56.github.io/atom.xml"/>
@@ -11,11 +11,71 @@
     <icon>https://changjoey56.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[韩语最常用动词 ]]></title>
+        <id>https://changjoey56.github.io/post/han-yu-zui-chang-yong-dong-ci/</id>
+        <link href="https://changjoey56.github.io/post/han-yu-zui-chang-yong-dong-ci/">
+        </link>
+        <updated>2021-08-01T15:32:14.000Z</updated>
+        <content type="html"><![CDATA[<p>最常用：</p>
+<p>하다 (作、做、带、戴等)<br>
+例子：공부를 하다.<br>
+做功课。</p>
+<p>있다 ( 正在)<br>
+例子：건설 중에 있다.<br>
+正在建设。</p>
+<p>되다 (成为、行、可以等)<br>
+例子：이렇게 하면 됩니까?<br>
+这样做行吗？</p>
+<p>보다 (见、看、尝、考、照顾等)<br>
+例子：너 그를 보았니?<br>
+你看见他了吗？</p>
+<p>찾다 （寻找）<br>
+例子：찾고 있다<br>
+正在查找</p>
+<p>말하다 (说话、说明、告诉)<br>
+例子：중국어를 말할 줄 안다.<br>
+会说汉语。</p>
+<p>가다 (去、前往、需要、动、没有了、消逝、过去等)<br>
+例子：도서관에 가다.<br>
+去图书馆。</p>
+<p>받다 (接受、收、接收、遭受等)<br>
+例子：선물을 받다.<br>
+接受礼物。</p>
+<p>듣다 (听)<br>
+例子：노래를 듣다.<br>
+听歌。</p>
+<p>말하다 (说)<br>
+例子：천천이 말해 주세요.<br>
+请慢点说。</p>
+<p>울다 (哭)<br>
+例子：울지 마세요<br>
+别哭</p>
+<p>쓰다 (花费)<br>
+例子：이 수박에 1만 원이 쓰었습니다.<br>
+这个西瓜花了1万元。</p>
+<p>가지고 있다 (拥有)<br>
+例子：자전거 한 대를 가지고 있습니다.<br>
+拥有一辆自行车</p>
+<p>입다 (穿著)<br>
+例子：</p>
+<p>一般常用：</p>
+<p>보이다 (看得见、看到、看出、出示、表明)<br>
+너는 칠판의 글이 보이느냐?<br>
+你看得见黑板上的字吗?</p>
+<p>대하다 (对于、关于、对待等)<br>
+例子：이 문제에 대하여 의견을 발표하다.<br>
+针对这个问题发表意见。</p>
+<p>위하다 (为了、为着、着想)<br>
+그들을 이해하기 위해서 반드시 그들 속으로 깊이 들어가야 한다.<br>
+为要理解他们必须深入他们。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[像韩国小朋友一样学韩语---邀请你参加生日派对]]></title>
         <id>https://changjoey56.github.io/post/xiang-han-guo-xiao-peng-you-yi-yang-xue-han-yu-yao-qing-ni-can-jia-sheng-ri-pai-dui/</id>
         <link href="https://changjoey56.github.io/post/xiang-han-guo-xiao-peng-you-yi-yang-xue-han-yu-yao-qing-ni-can-jia-sheng-ri-pai-dui/">
         </link>
-        <updated>2021-07-31T05:09:33.000Z</updated>
+        <updated>2021-07-31T06:09:33.000Z</updated>
         <content type="html"><![CDATA[<p>(생일 파티에 초대할게)[https://www.bilibili.com/video/BV1RU4y137FP]</p>
 <p>旁白：동진은 새로운 반 친구인<br>
 수연에 관해 생각하고 있었어요.<br>
@@ -360,44 +420,6 @@ A动作结束才开始B动作，但前面事实不能作为后面事实的条件
 <p>动词 + 는 现在、进行<br>
 아이가 <strong>좋아하는</strong> 과자를 사 주십시오.  孩子喜欢饼干。给他买饼干吧。</p>
 <figure data-type="image" tabindex="1"><img src="https://changjoey56.github.io/post-images/1625839353390.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩语常见时态总结]]></title>
-        <id>https://changjoey56.github.io/post/han-yu-chang-jian-shi-tai-zong-jie/</id>
-        <link href="https://changjoey56.github.io/post/han-yu-chang-jian-shi-tai-zong-jie/">
-        </link>
-        <updated>2021-07-09T16:30:56.000Z</updated>
-        <content type="html"><![CDATA[<p>韩国语中常见的时态有四种，一般现在式，进行式，过去式和将来式。</p>
-<p>1）一般现在式是指习惯性动作和描述自然规律。现在式表达方式为：습니다/ㅂ니다,아/어/여요.前者比较正式一些，后者多用于口语中，比较亲切。</p>
-<p>例如：매일 버스로 회사에 갑니다.</p>
-<p>每天坐公交车去公司。</p>
-<p>여름에 비가 자주 와요.</p>
-<p>夏天经常下雨。</p>
-<p>저는 강아지를 좋아해요.</p>
-<p>我喜欢小狗。</p>
-<p>2）进行式是指正在进行的动作或者是持续性动作。进行式的表达方式为：-고 있다.加终结词尾后变成고 있습니다或者是고 있어요。</p>
-<p>例如：어머니는 요리하고 있습니다.</p>
-<p>妈妈正在炒菜。</p>
-<p>친구는 사진을 찍고 있어요.</p>
-<p>朋友正在拍照。</p>
-<p>요즘 다이어트를 하고 있어요.</p>
-<p>最近在减肥。</p>
-<p>3）过去式是指已经结束的动作或状态。过去式的表达方式为：았/었/였，加终结词尾后变成 았/었/였습니다 或者是았/었/였어요.</p>
-<p>例如：어제 눈이 왔어요.</p>
-<p>昨天下雪了。</p>
-<p>아침에 공원에서 운동했습니다.</p>
-<p>早上在公园运动了。</p>
-<p>점심에 무엇을 먹었어요?</p>
-<p>中午吃了什么啊？</p>
-<p>4）将来式是指将要进行的动作。将来式的表达方式为：-겠和 (으)ㄹ 거예요，前者比较正式一些，后者比较亲切一些，口语中经常用后者来表达。</p>
-<p>例如：내일 한국에 가겠어요.</p>
-<p>明天将要去韩国。</p>
-<p>오후에 부산으로 출장할 거예요.</p>
-<p>下午将要去釜山出差。</p>
-<p>내년에 태권도를 배울 거예요.</p>
-<p>明年将要学习跆拳道。</p>
-<figure data-type="image" tabindex="1"><img src="https://changjoey56.github.io/post-images/1625844915154.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
